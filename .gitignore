@@ -1,0 +1,10 @@
+# Local secrets and temporary files
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.DS_Store
+Thumbs.db
+~$*
+*.tmp
