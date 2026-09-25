@@ -1,4 +1,7 @@
 # わたしの「なんで？」ノート
+
+- 作成日: 2026-09-25
+- 更新日: 2026-09-26
 ## 小学生の My ポートフォリオ
 
 「なんでだろう」「やってみたい」「うまくいかなかった」を、少しずつ残す場所です。
@@ -59,6 +62,9 @@
 - [IB PYPのUOIを参考にした家庭の探究づくり](docs/pyp-uoi-guide.md)
 - [個人情報と写真・作品の扱い](docs/privacy.md)
 - [AIに整理を頼むとき](docs/ai-guide.md)
+- [Copilotの初期設定](docs/copilot-setup.md)
+- [ChatGPT Plusの初期設定](docs/chatgpt-plus-setup.md)
+- [作成日・更新日のルール](docs/file-dates.md)
 - [中学生版への引き継ぎ](docs/migration.md)
 - [架空の記入例](examples/README.md)
 
