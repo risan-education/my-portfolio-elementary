@@ -1,9 +1,17 @@
 # はじめ方（保護者向け）
 
+## GitHubを初めて使う方へ
+
+GitHubは、文章や写真を変更履歴とともに保存できるサービスです。この教材では、保護者が管理する学びのノート置き場として使います。
+
+**[「GitHubって何？ 登録とログインのしかた」を開く](github-basics.md)**
+
+Googleアカウントを持っていない方の作成手順から、GoogleでのGitHub登録・次回のログインまで説明しています。初めての方は、先にそのページで登録とログインを済ませてください。
+
 ## 自分用の場所を作る
 
-1. 保護者自身のGitHubアカウントでログインします。
-2. 配布元で **Use this template → Create a new repository** を選びます。
+1. 保護者自身のGitHubアカウントで[ログイン](https://github.com/login)します。Googleで登録した方は **Continue with Google** を選びます。
+2. [配布元のトップページ](https://github.com/risan-education/my-portfolio-elementary)で **Use this template → Create a new repository** を選びます。
 3. 所有者は保護者のアカウント、名前は本名を含まないもの（例: `family-learning-notes`）にします。
 4. **Private** を選びます。「Include all branches」は不要です。
 5. 作成後、リポジトリ名のそばに **Private** と表示されることを確認します。

@@ -53,6 +53,7 @@
 
 ### 保護者向けガイド
 
+- [GitHubって何？ 登録とログインのしかた](docs/github-basics.md)
 - [はじめ方・保存の操作](docs/getting-started.md)
 - [探究の伴走のしかた](docs/parent-guide.md)
 - [IB PYPのUOIを参考にした家庭の探究づくり](docs/pyp-uoi-guide.md)
