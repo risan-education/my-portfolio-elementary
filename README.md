@@ -31,6 +31,7 @@
 | 1〜3年生・まず一言 | [ひとこと記録](templates/quick-note.md) |
 | 体験・読書・習い事を残す | [体験の記録](templates/experience.md) |
 | 4〜6年生・問いを調べる／試す | [探究ノート](templates/inquiry.md) |
+| 複数の活動をつなげて探究する | [家庭の単元づくりシート](templates/unit-of-inquiry.md) |
 | 工作・絵・プログラムを残す | [作品カード](templates/work.md) |
 | ときどき見返す | [ふりかえり](templates/reflection.md) |
 | 1年の思い出を選ぶ | [年間ふりかえり](templates/annual-review.md) |
@@ -54,6 +55,7 @@
 
 - [はじめ方・保存の操作](docs/getting-started.md)
 - [探究の伴走のしかた](docs/parent-guide.md)
+- [IB PYPのUOIを参考にした家庭の探究づくり](docs/pyp-uoi-guide.md)
 - [個人情報と写真・作品の扱い](docs/privacy.md)
 - [AIに整理を頼むとき](docs/ai-guide.md)
 - [中学生版への引き継ぎ](docs/migration.md)

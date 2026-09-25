@@ -7,3 +7,5 @@
 - [高学年向け: 紙の橋](paper-bridge.md)
 
 用紙は [templates](../templates/) からコピーし、例の内容を自分の実績に流用しないでください。
+
+- [PYPのUOIを参考にした「ものを包む」単元計画](uoi-packaging.md) — 架空の未実施計画。活動実績ではありません。
