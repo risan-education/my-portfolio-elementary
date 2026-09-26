@@ -34,8 +34,8 @@ GitHubの利用は原則13歳以上です。小学生本人のアカウント作
 
 | 使うもの | 月額の目安 | 最初にすること | 毎回の流れ |
 | --- | --- | --- | --- |
-| ChatGPT PlusのCodex | 1か月 約3,000円 | [パソコンのノートとCodexの設定](chatgpt-plus-setup.md) | 依頼 → 内容を確認 → mainへ直接push |
-| GitHub Copilot Pro | 1か月 約1,500円 | [VS Codeと自分用ノートの設定](copilot-setup.md) | 依頼 → 内容を確認 → mainへ直接push |
+| ChatGPT Plus＋GitHubプラグイン | 1か月 約3,000円 | [ChatGPTアプリとGitHubの接続](chatgpt-plus-setup.md) | 依頼 → 内容を確認 → mainへ直接保存 |
+| GitHub Copilot Pro | 1か月 約1,500円 | [VS Codeと自分用ノートの設定](copilot-setup.md) | 依頼 → 内容を確認 → mainへ直接保存 |
 
 金額は概算です。為替・税・契約方法などによって変わるため、実際の請求額は契約画面で確認してください。Copilotの金額は有料のProプランの目安です。
 
@@ -69,7 +69,7 @@ GitHubの利用は原則13歳以上です。小学生本人のアカウント作
 - 体験した日と、作成日・更新日が分かれているか。
 - 元のメモが残り、保存先が自分用のPrivateになっているか。
 
-確認後は[Copilotの保存手順](copilot-setup.md)または[Codexの反映手順](chatgpt-plus-setup.md)でGitHubに反映します。最後にGitHubで新しいファイルを開ければ完了です。
+確認後は[Copilotの保存手順](copilot-setup.md)または[ChatGPTの保存手順](chatgpt-plus-setup.md)でGitHubに反映します。最後にGitHubで新しいファイルを開ければ完了です。
 
 ### あとから書き足すとき
 

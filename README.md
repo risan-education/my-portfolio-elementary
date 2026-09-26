@@ -13,7 +13,7 @@
 ### まず1件、残してみよう
 
 1. 保護者がこのテンプレートから **Private（非公開）** の自分用リポジトリを作ります。[はじめ方](docs/getting-started.md)
-2. [ChatGPT PlusのCodex](docs/chatgpt-plus-setup.md)または[GitHub Copilot](docs/copilot-setup.md)を自分用リポジトリにつなぎます。
+2. [ChatGPT Plus＋GitHubプラグイン](docs/chatgpt-plus-setup.md)または[GitHub Copilot](docs/copilot-setup.md)を自分用リポジトリにつなぎます。
 3. AIに「やったこと」「子どものことば」を伝え、用紙に沿ってファイルを作るよう頼みます。作成日・更新日もAIが記入します。
 4. 内容を子どもと見直し、GitHubに反映します。続きが気になったら、AIと相談して[探究ノート](templates/inquiry.md)へ進みます。
 

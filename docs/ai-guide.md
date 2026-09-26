@@ -4,7 +4,7 @@
 - 更新日: 2026-09-26
 
 保護者がAIを操作します。AIは編集の手伝い役です。子どもの体験・発言・成果を補って作る役割ではありません。
-この教材はChatGPTのCodexまたはGitHub Copilotに話しかけて記録を作る流れを基本にします。手動編集は補足の方法です。
+この教材はChatGPTのGitHubプラグインまたはGitHub Copilotに話しかけて記録を作る流れを基本にします。手動編集は補足の方法です。
 
 ## 依頼例: 体験を1件残す
 
@@ -37,7 +37,7 @@
 どちらか一方で始められます。契約と接続・保存は保護者が行います。
 
 - [Copilotを使う場合（無料・学生・有料）](copilot-setup.md): VS Codeで編集し、GitHubへ送信する。
-- [ChatGPT Plusを契約して使う場合](chatgpt-plus-setup.md): ローカルのCodexで編集し、内容を確認してmainへ直接pushする。
+- [ChatGPT Plusを契約して使う場合](chatgpt-plus-setup.md): ChatGPTアプリのGitHubプラグインで、内容を確認してmainへ直接保存する。
 - [作成日・更新日のルール](file-dates.md): 体験の日と、ファイルを作成・編集した日を分ける。
 
 ## 保存まで頼む具体例（架空の原メモ）
