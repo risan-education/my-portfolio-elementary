@@ -10,6 +10,8 @@
 **子どもは体験とことばの主役。GitHubへの保存とAIの操作は保護者が担当します。**
 入試の実績づくりを急がず、そのときの興味を大切にします。
 
+**家庭で試せる公開テンプレート（0.2.0）です。** 用紙は無料です。AIサービスの費用は別で、接続・編集機能は環境によって異なります。[確認状況](docs/connection-check.md)を読み、最初は架空の記録で練習してください。文章はGitHub、写真・動画の原本は保護者の外部ストレージに保管できます。
+
 ### まず1件、残してみよう
 
 1. [はじめ方（保護者向け）](docs/getting-started.md)を開き、ChatGPTへの登録・Plus契約・アプリのインストールを進めます。
@@ -46,6 +48,8 @@
 
 小学生のうちは残すだけで十分です。ためた記録は、中学・高校の探究学習の出発点、大学入試（総合型・学校推薦型）の活動報告書や面接の材料、大学生の就職活動での自己分析、社会人になってからAIに自分の背景を伝えるコンテキストとして、原記録を変えずに使えます。詳しくは[将来の使いみち](docs/future-use.md)を参照してください。
 
+入試や就職の結果を保証する教材ではありません。大学での経験を小学生の記録で代替せず、本人が用途と利用範囲を選びます。
+
 ### 保存する場所
 
 | 場所 | 内容 |
@@ -73,10 +77,21 @@
 - [作成日・更新日のルール](docs/file-dates.md)
 - [中学生になったら（引き継ぎと本人への移譲）](docs/migration.md)
 - [架空の記入例](examples/README.md)
+- [記録を使う範囲・利用停止・削除](docs/record-choices.md)
+- [バックアップと復元](docs/backup-and-restore.md)
+- [テンプレートの更新](docs/template-updates.md)
 - 補足: [Copilotの初期設定](docs/copilot-setup.md) / [中学生とCopilotの無料利用](docs/copilot-students.md) / [Claude Code（自分で設定できる方向け）](docs/claude-code.md)
 
 この公開リポジトリは空の用紙と架空例の配布用です。**実際の子どもの記録を、このリポジトリのIssue・PRに投稿しないでください。**
 ChatGPTでの作成・編集を基本に案内します。CopilotやClaude Codeを希望する方向けの補足もあります。手動編集の手順も補足として残しています。自動公開・自動送信の仕組みは含みません。
+
+### 必要になったときの用紙
+
+- [今の自分をAIに伝える](templates/ai-context.md)
+- [提出条件を確認する](templates/submission-check.md)
+- [記録を使う範囲を見直す](templates/record-use-review.md)
+
+管理者向け: [公開前レビュー](docs/reviews/2026-09-26-publication-review.md) / [記事への掲載案](docs/publication-guide.md) / [変更履歴](CHANGELOG.md)
 
 ### ライセンス
 
