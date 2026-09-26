@@ -12,8 +12,8 @@
 
 ### まず1件、残してみよう
 
-1. 保護者がこのテンプレートから **Private（非公開）** の自分用リポジトリを作ります。[はじめ方](docs/getting-started.md)
-2. [ChatGPT Plus＋GitHubプラグイン](docs/chatgpt-plus-setup.md)または[GitHub Copilot](docs/copilot-setup.md)を自分用リポジトリにつなぎます。
+1. [はじめ方（保護者向け）](docs/getting-started.md)を開き、ChatGPTへの登録・Plus契約・アプリのインストールを進めます。
+2. 同じページの手順で、自分用の **Private（非公開）** リポジトリを作り、ChatGPTのGitHubプラグインにつなぎます。
 3. AIに「やったこと」「子どものことば」を伝え、用紙に沿ってファイルを作るよう頼みます。作成日・更新日もAIが記入します。
 4. 内容を子どもと見直し、GitHubに反映します。続きが気になったら、AIと相談して[探究ノート](templates/inquiry.md)へ進みます。
 
@@ -57,20 +57,19 @@
 ### 保護者向けガイド
 
 - [GitHubって何？ 登録とログインのしかた](docs/github-basics.md)
-- [はじめ方・保存の操作](docs/getting-started.md)
+- [はじめ方（ChatGPTの登録・設定から保存まで）](docs/getting-started.md)
 - [探究の伴走のしかた](docs/parent-guide.md)
 - [IB PYPのUOIを参考にした家庭の探究づくり](docs/pyp-uoi-guide.md)
 - [個人情報と写真・作品の扱い](docs/privacy.md)
 - [AIに整理を頼むとき](docs/ai-guide.md)
-- [Copilotの初期設定](docs/copilot-setup.md)
+- [補足: Copilotの初期設定](docs/copilot-setup.md)
 - [中学生とCopilotの無料利用](docs/copilot-students.md)
-- [ChatGPT Plusの初期設定](docs/chatgpt-plus-setup.md)
 - [作成日・更新日のルール](docs/file-dates.md)
 - [中学生版への引き継ぎ](docs/migration.md)
 - [架空の記入例](examples/README.md)
 
 この公開リポジトリは空の用紙と架空例の配布用です。**実際の子どもの記録を、このリポジトリのIssue・PRに投稿しないでください。**
-ChatGPTまたはGitHub Copilotでの作成・編集を基本に案内します。手動編集の手順も補足として残しています。自動公開・自動送信の仕組みは含みません。
+ChatGPTでの作成・編集を基本に案内します。Copilotを希望する方向けの補足もあります。手動編集の手順も補足として残しています。自動公開・自動送信の仕組みは含みません。
 
 ### ライセンス
 
