@@ -34,7 +34,7 @@ foreach ($file in $files) {
         $target = $link.Groups[1].Value.Trim().Trim('<','>')
         if ($target -match '^[a-zA-Z][a-zA-Z0-9+.-]*:' -or $target.StartsWith('#')) { continue }
         $target = [uri]::UnescapeDataString(($target -split '#',2)[0])
-        if ($target -match 'YYYY|ファイル名') { $sampleLinks++; continue }
+        if ($target -match 'YYMMDD|ファイル名') { $sampleLinks++; continue }
         if ($target -and -not (Test-Path -LiteralPath (Join-Path (Split-Path $path -Parent) $target))) {
             $issues.Add("$file : missing link target $target")
         }

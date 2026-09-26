@@ -91,7 +91,7 @@ ChatGPTでの作成・編集を基本に案内します。CopilotやClaude Code�
 - [提出条件を確認する](templates/submission-check.md)
 - [記録を使う範囲を見直す](templates/record-use-review.md)
 
-管理者向け: [公開前レビュー](docs/reviews/2026-09-26-publication-review.md) / [記事への掲載案](docs/publication-guide.md) / [変更履歴](CHANGELOG.md)
+管理者向け: [公開前レビュー](docs/reviews/260926-publication-review.md) / [記事への掲載案](docs/publication-guide.md) / [変更履歴](CHANGELOG.md)
 
 ### ライセンス
 
