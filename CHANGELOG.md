@@ -5,14 +5,13 @@
 
 ## 0.3.0 — 2026-09-27
 
-教材部分のライセンスを変更しました。
+公開前にライセンス表記を整えました。教材は初版公開時から CC BY 4.0 で提供します。
 
-- 教材部分（オリジナルの文章・templates/ の用紙・examples/ の架空例・docs/ のガイド・README.md・AGENTS.md などの説明文）を MIT License から **CC BY 4.0** に変更。
-- 著作権表示を `Copyright © 2026 adash333`、配布元を risan-education とした。著作権は保持し、CC0 は採用しない。
-- プログラム部分（`scripts/` 以下のスクリプト。現在は `scripts/check-docs.ps1`）には **MIT License** を別適用。
-- `LICENSE` を適用範囲の説明に改め、正式本文を `LICENSES/CC-BY-4.0.txt` と `LICENSES/MIT.txt` に収録。
-- README.md、docs/getting-started.md、examples/README.md の「MIT」表記を新しい適用範囲に合わせ、templates/README.md に短い権利表示を追加。
-- 0.2.0 以前に MIT License で公開していた版について、既に得た許諾は取り消さない。
+- 教材部分（オリジナルの文章・templates/ の用紙・examples/ の架空例・docs/ のガイド・README.md・AGENTS.md などの説明文）は **CC BY 4.0**。
+- 著作権表示は `Copyright © 2026 adash333`、配布元は risan-education。著作権は保持し、CC0 は採用しない。
+- プログラム部分（`scripts/` 以下のスクリプト。現在は `scripts/check-docs.ps1`）は **MIT License**。
+- `LICENSE` に適用範囲を記載し、正式本文を `LICENSES/CC-BY-4.0.txt` と `LICENSES/MIT.txt` に収録。
+- README.md、docs/getting-started.md、examples/README.md、templates/README.md に権利表示とライセンスの案内を記載。
 - 第三者素材: docs/pyp-uoi-guide.md が参照する IB の公開資料は出典として引用・要約したもので、本ライセンスの対象外。adash333 以外の権利者による寄稿はない（Git 履歴で確認）。
 - 利用者が記入・追加した記録・写真・作品には本教材のライセンスを自動適用しない。
 

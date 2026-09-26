@@ -3,7 +3,7 @@
 
 Copyright © 2026 adash333
 配布元 / Distributed by: risan-education
-適用日 / Effective: 2026-09-27
+初版公開時から適用 / Applies from the first public release
 
 このファイルは適用範囲の説明です。正式なライセンス本文は LICENSES/ 以下に収録しています。
 This file explains the scope. The full license texts are in LICENSES/.
@@ -60,14 +60,7 @@ CHANGELOG.md に明示します。
   本ライセンスの対象ではなく、IB の定める条件に従います。
 - 本ファイル作成時点で、adash333 以外の権利者による寄稿はありません。
 
-5. 以前の版について / Previous versions
----------------------------------------
-
-2026-09-27 より前に MIT License で公開していた版について、その版を MIT License の条件で
-既に取得した利用者の許諾を、本変更によって取り消す扱いにはしません。
-本日以降に提供する版は上記 1〜4 の条件で提供します。
-
-6. 免責 / Disclaimer
+5. 免責 / Disclaimer
 --------------------
 
 各ライセンス本文の定めるとおり、教材は現状のまま提供され、保証はありません。
