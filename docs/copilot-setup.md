@@ -1,13 +1,17 @@
-# Copilotを契約して使う場合の初期設定
+# GitHub Copilotの初期設定（無料・学生・有料）
 
 - 作成日: 2026-09-26
 - 更新日: 2026-09-26
 
-ここでいうCopilotは **GitHub Copilot** です。保護者がGitHub Copilotの個人向け有料プランを契約し、パソコンの **Visual Studio Code（VS Code）** でノートを編集する方法を説明します。Microsoft Copilotの契約とは別です。
+ここでいうCopilotは **GitHub Copilot** です。保護者が自分のGitHub Copilotプランを使い、パソコンの **Visual Studio Code（VS Code）** でノートを編集する方法を説明します。Microsoft Copilotの契約とは別です。
 
 先に[はじめ方](getting-started.md)で自分用のPrivateリポジトリを作ってください。以下の `family-learning-notes` は保存場所の名前の例です。
 
-## 1. GitHub Copilotを契約する
+## 1. 利用するプランを選ぶ
+
+まず試す場合はCopilot Freeを利用できます。無料枠には制限があります。13歳以上の学生本人が使う場合は[学生向け無料プランの条件](copilot-students.md)を確認してください。FreeやStudentを使う場合は有料契約をせず、「2」へ進みます。
+
+有料プランを選ぶ場合は、以下の手順で契約します。
 
 1. ノートを所有している保護者のGitHubアカウントでログインします。
 2. [Copilotのプラン一覧](https://github.com/features/copilot/plans)を開き、希望する個人向けプラン（例: Copilot Pro）の **Get started** から進みます。
@@ -22,7 +26,7 @@
 1. [VS Code公式サイト](https://code.visualstudio.com/)から、自分のパソコン用のアプリをインストールします。
 2. ローカルでGitHubと同期するため、[Git公式サイト](https://git-scm.com/downloads)からGitをインストールします。すでに使える場合は不要です。インストール後はVS Codeを開き直します。
 3. VS CodeのCopilotアイコンから **Use AI Features** やサインインの案内を選びます。
-4. **契約したGitHubアカウント**でログインします。ブラウザーで確認が出たら、アカウントと接続先を確認して進みます。
+4. **利用するプランが有効なGitHubアカウント**でログインします。ブラウザーで確認が出たら、アカウントと接続先を確認して進みます。
 
 公式手順: [VS CodeでCopilotを設定する](https://code.visualstudio.com/docs/setup/copilot)
 

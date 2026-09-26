@@ -13,9 +13,9 @@
 ### まず1件、残してみよう
 
 1. 保護者がこのテンプレートから **Private（非公開）** の自分用リポジトリを作ります。[はじめ方](docs/getting-started.md)
-2. [ひとこと記録](templates/quick-note.md)をコピーして、`experiences/` に保存します。
-3. 「やったこと」「子どものことば」「つぎに気になること」を、書けるところだけ記入します。
-4. 子どもと見直して保存。続きが気になったら、[探究ノート](templates/inquiry.md)へ進みます。
+2. [ChatGPT PlusのCodex](docs/chatgpt-plus-setup.md)または[GitHub Copilot](docs/copilot-setup.md)を自分用リポジトリにつなぎます。
+3. AIに「やったこと」「子どものことば」を伝え、用紙に沿ってファイルを作るよう頼みます。作成日・更新日もAIが記入します。
+4. 内容を子どもと見直し、GitHubに反映します。続きが気になったら、AIと相談して[探究ノート](templates/inquiry.md)へ進みます。
 
 ### 子どもといっしょに
 
@@ -63,13 +63,14 @@
 - [個人情報と写真・作品の扱い](docs/privacy.md)
 - [AIに整理を頼むとき](docs/ai-guide.md)
 - [Copilotの初期設定](docs/copilot-setup.md)
+- [中学生とCopilotの無料利用](docs/copilot-students.md)
 - [ChatGPT Plusの初期設定](docs/chatgpt-plus-setup.md)
 - [作成日・更新日のルール](docs/file-dates.md)
 - [中学生版への引き継ぎ](docs/migration.md)
 - [架空の記入例](examples/README.md)
 
 この公開リポジトリは空の用紙と架空例の配布用です。**実際の子どもの記録を、このリポジトリのIssue・PRに投稿しないでください。**
-AIや有料サービスなしでも使えます。自動公開・自動送信の仕組みは含みません。
+ChatGPTまたはGitHub Copilotでの作成・編集を基本に案内します。手動編集の手順も補足として残しています。自動公開・自動送信の仕組みは含みません。
 
 ### ライセンス
 
