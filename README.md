@@ -38,8 +38,13 @@
 | 工作・絵・プログラムを残す | [作品カード](templates/work.md) |
 | ときどき見返す | [ふりかえり](templates/reflection.md) |
 | 1年の思い出を選ぶ | [年間ふりかえり](templates/annual-review.md) |
+| 数年分の記録を根拠付きでまとめる | [根拠付き要約](templates/evidence-summary.md) |
 
 学年は目安です。話す・描く・保護者が書きとめる方法を自由に組み合わせてください。
+
+### この記録は、あとで何に使える？
+
+小学生のうちは残すだけで十分です。ためた記録は、中学・高校の探究学習の出発点、大学入試（総合型・学校推薦型）の活動報告書や面接の材料、大学生の就職活動での自己分析、社会人になってからAIに自分の背景を伝えるコンテキストとして、原記録を変えずに使えます。詳しくは[将来の使いみち](docs/future-use.md)を参照してください。
 
 ### 保存する場所
 
@@ -50,6 +55,8 @@
 | `projects/` | 続けて調べる探究・作品 |
 | `reflections/` | ときどきのふりかえり |
 | `annual-review/` | 年間ふりかえり |
+| `questions.md` | 本人の問いを日付付きでためる台帳 |
+| `derived/` | 記録から作る要約・報告書の下書き（原記録は変えない） |
 | `assets/` | 写真・PDFの控えや所在メモ |
 | `templates/` | コピーして使う空欄の用紙 |
 | `examples/` | **すべて架空**の記入例。本人の実績に含めません |
@@ -62,14 +69,14 @@
 - [IB PYPのUOIを参考にした家庭の探究づくり](docs/pyp-uoi-guide.md)
 - [個人情報と写真・作品の扱い](docs/privacy.md)
 - [AIに整理を頼むとき](docs/ai-guide.md)
-- [補足: Copilotの初期設定](docs/copilot-setup.md)
-- [中学生とCopilotの無料利用](docs/copilot-students.md)
+- [将来の使いみち: 探究・入試・就活・AIのコンテキスト](docs/future-use.md)
 - [作成日・更新日のルール](docs/file-dates.md)
-- [中学生版への引き継ぎ](docs/migration.md)
+- [中学生になったら（引き継ぎと本人への移譲）](docs/migration.md)
 - [架空の記入例](examples/README.md)
+- 補足: [Copilotの初期設定](docs/copilot-setup.md) / [中学生とCopilotの無料利用](docs/copilot-students.md) / [Claude Code（自分で設定できる方向け）](docs/claude-code.md)
 
 この公開リポジトリは空の用紙と架空例の配布用です。**実際の子どもの記録を、このリポジトリのIssue・PRに投稿しないでください。**
-ChatGPTでの作成・編集を基本に案内します。Copilotを希望する方向けの補足もあります。手動編集の手順も補足として残しています。自動公開・自動送信の仕組みは含みません。
+ChatGPTでの作成・編集を基本に案内します。CopilotやClaude Codeを希望する方向けの補足もあります。手動編集の手順も補足として残しています。自動公開・自動送信の仕組みは含みません。
 
 ### ライセンス
 

@@ -18,7 +18,7 @@
 
 | 項目 | 日付 |
 | --- | --- |
-| ファイル名 | `experiences/2026-09-26-運動会.md` |
+| ファイル名 | `experiences/2026-09-26-sports-day.md` |
 | 体験した日 | 2026-09-26 |
 | 作成日 | 2026-09-28 |
 | 更新日 | 2026-10-01 |
@@ -27,8 +27,9 @@
 
 ## AIが参照する設定
 
-- [AGENTS.md](../AGENTS.md): Codexなどが読む共通ルール。
+- [AGENTS.md](../AGENTS.md): ChatGPT・Claude Codeなどが読む共通ルール。
 - [.github/copilot-instructions.md](../.github/copilot-instructions.md): Copilotへの共通指示。
+- [CLAUDE.md](../CLAUDE.md): Claude Code に AGENTS.md を読ませる案内。
 - [templates](../templates/): コピー用の用紙。日付欄は空欄にしてあります。
 
 用紙をコピーして新しい記録を作るときに、実際の作成日・更新日を埋めます。テンプレートを配布した日を、本人の記録の作成日にはしません。
