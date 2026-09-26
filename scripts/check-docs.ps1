@@ -1,5 +1,5 @@
 ﻿# 作成日: 2026-09-26
-# 更新日: 2026-09-26
+# 更新日: 2026-09-27
 # Read-only checks. Does not inspect remote accounts or validate external URLs.
 param([string]$RepositoryRoot = (Split-Path $PSScriptRoot -Parent))
 $ErrorActionPreference = 'Stop'
@@ -15,7 +15,7 @@ foreach ($file in $files) {
     # Ignore fenced examples, including their example dates and file links.
     $fence = ([string][char]96) * 3
     $body = [regex]::Replace($body, '(?ms)^(' + $fence + '|~~~)[^\r\n]*\r?\n.*?^\1[^\r\n]*(?:\r?\n|$)', '')
-    $isBlankForm = $file.StartsWith('templates/') -or $file -eq 'questions.md'
+    $isBlankForm = ($file.StartsWith('templates/') -and $file -ne 'templates/README.md') -or $file -eq 'questions.md'
     foreach ($label in @('作成日', '更新日')) {
         $pattern = '(?m)^- ' + $label + ':([^\r\n]*)'
         $matches = [regex]::Matches($body, $pattern)

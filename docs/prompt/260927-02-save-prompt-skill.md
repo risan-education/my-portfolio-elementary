@@ -19,8 +19,12 @@ docs/prompt/ フォルダに、上の　プロンプト本文　と　その結�
 - `docs/prompt/README.md` を作り、フォルダの目的と記録一覧を書いた。README.md の管理者向けの行にリンクを追加した。
 - 直前の依頼（260927-01）もこの形式で記録した。
 - 追加したファイル: `.claude/skills/save-prompt/SKILL.md`、`docs/prompt/README.md`、`docs/prompt/260927-01-push-to-main.md`、`docs/prompt/260927-02-save-prompt-skill.md`。変更したファイル: `README.md`
-- コミット: この記録のコミット
+- コミット: b8ecae4「docs: add /save-prompt skill and docs/prompt request log」
 - 注意: `scripts/check-docs.ps1` がすべての Markdown に作成日・更新日の行をちょうど1つずつ求めるため、依頼本文はフェンスで囲む決まりにした。
+
+## 追記（2026-09-27）
+
+- 検査を再現したところ `templates/README.md`（用紙ではなく説明文）が「templates/ は日付欄を空欄」の判定に当たったため、`scripts/check-docs.ps1` の判定から `templates/README.md` を除外した。
 
 ## 関連
 
