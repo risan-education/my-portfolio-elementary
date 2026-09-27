@@ -13,3 +13,4 @@
 
 - [260927-01 今後は main に直接 push する](260927-01-push-to-main.md)
 - [260927-02 /save-prompt スキルの作成](260927-02-save-prompt-skill.md)
+- [260927-03 READMEをChatGPT前提にし、目的とメリットを追加](260927-03-chatgpt-readme-purpose.md)
