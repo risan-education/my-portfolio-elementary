@@ -7,6 +7,6 @@
 
 ## 権利表示
 
-用紙のオリジナルの文章は Copyright © 2026 adash333、[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja) で提供します。配布元は risan-education です。適用範囲は [LICENSE](../LICENSE) を参照してください。
+用紙のオリジナルの文章は Copyright © 2026 adash333、[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja) で提供します。配布元は risan-education です。適用範囲は [NOTICE.md](../NOTICE.md) を参照してください。
 
 用紙を使って本人や保護者が記入した内容は、記入した人に帰属します。本教材のライセンスは自動的に適用されず、記録に権利表示を書き込む必要もありません。用紙そのものを改変して配布する場合は、CC BY 4.0 の条件に従って著作者表示と変更の表示をしてください。

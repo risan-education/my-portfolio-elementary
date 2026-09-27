@@ -1,0 +1,73 @@
+# 著作権表示と適用範囲 / NOTICE
+
+- 作成日: 2026-09-27
+- 更新日: 2026-09-27
+
+著作権とライセンス / Copyright and License
+=========================================
+
+Copyright © 2026 adash333
+配布元 / Distributed by: risan-education
+初版公開時から適用 / Applies from the first public release
+
+このファイルは適用範囲の説明です。CC BY 4.0 の正式本文（英語原文）は同じフォルダの LICENSE、MIT の正式本文は LICENSES/ 以下に収録しています。
+This file explains the scope. The full CC BY 4.0 text is in LICENSE; the MIT text is in LICENSES/.
+
+1. 教材部分（文章・テンプレート・架空の記入例・ガイド） / Educational content
+---------------------------------------------------------------------------
+
+本リポジトリのオリジナルの文章、templates/ の用紙、examples/ の架空の記入例、
+docs/ のガイド、README.md、AGENTS.md などの説明文は、
+Creative Commons Attribution 4.0 International (CC BY 4.0) で提供します。
+
+- 正式本文 / Full text: LICENSE
+- 日本語の概要 / Japanese summary: https://creativecommons.org/licenses/by/4.0/deed.ja
+- 日本語の正式本文 / Japanese legal code: https://creativecommons.org/licenses/by/4.0/legalcode.ja
+
+著作権は adash333 に帰属し、著作権を放棄するものではありません（CC0 ではありません）。
+CC BY 4.0 の条件（著作者表示、ライセンスへのリンク、改変した場合の変更表示など）に
+従うことで、商用利用・改変・再配布ができます。
+
+表示の例 / Attribution example:
+
+    原作: adash333「Myポートフォリオ（小学生版）」
+    https://github.com/risan-education/my-portfolio-elementary
+    Copyright © 2026 adash333 / CC BY 4.0
+    https://creativecommons.org/licenses/by/4.0/
+    変更内容: （改変した場合に記載）
+
+これは表示方法の一例で、正式な条件に従う合理的な方法で表示できます。
+
+2. プログラム部分 / Program code
+--------------------------------
+
+スクリプト、設定ファイル、その他のプログラムに該当する部分は MIT License で提供します。
+本ファイル作成時点の対象は scripts/ 以下のスクリプト（scripts/check-docs.ps1）です。
+今後追加されるスクリプト等にも MIT License を適用し、対象をそのファイルまたは
+CHANGELOG.md に明示します。
+
+- 正式本文 / Full text: LICENSES/MIT.txt
+
+3. 利用者が記入・追加した内容 / Content added by users
+-----------------------------------------------------
+
+利用者がテンプレートを複製して新たに記入した文章、写真、作品、記録は、
+それぞれの権利者（本人や保護者）に帰属します。本教材のライセンスは自動的に
+適用されず、個人の記録を公開する義務もありません。
+
+4. 第三者の著作物 / Third-party materials
+-----------------------------------------
+
+第三者の著作物には、それぞれの権利表示と利用条件が適用されます。
+
+- docs/pyp-uoi-guide.md は、International Baccalaureate (IB) が公開する資料を
+  出典として参照し、本教材向けの説明として要約・言い換えています。IB の資料そのものは
+  本ライセンスの対象ではなく、IB の定める条件に従います。
+- 本ファイル作成時点で、adash333 以外の権利者による寄稿はありません。
+
+5. 免責 / Disclaimer
+--------------------
+
+各ライセンス本文の定めるとおり、教材は現状のまま提供され、保証はありません。
+
+2026-09-27: CC BY 4.0 の正式本文を LICENSE へ移し、この案内を LICENSE から NOTICE.md へ移しました（大学生版と同じ構成）。ライセンスの内容は変えていません。

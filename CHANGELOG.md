@@ -7,6 +7,8 @@
 
 公開前にライセンス表記を整えました。教材は初版公開時から CC BY 4.0 で提供します。
 
+- （同日追記）大学生版と同じ構成に合わせ、`LICENSE` を CC BY 4.0 の正式本文（英語原文）に置き換え、日本語の適用範囲の案内を `NOTICE.md` へ移動。MIT の正式本文は `LICENSES/MIT.txt` に維持。GitHub のライセンス表示が CC BY 4.0 と判定されるようにする。
+
 - 教材部分（オリジナルの文章・templates/ の用紙・examples/ の架空例・docs/ のガイド・README.md・AGENTS.md などの説明文）は **CC BY 4.0**。
 - 著作権表示は `Copyright © 2026 adash333`、配布元は risan-education。著作権は保持し、CC0 は採用しない。
 - プログラム部分（`scripts/` 以下のスクリプト。現在は `scripts/check-docs.ps1`）は **MIT License**。
