@@ -1,7 +1,7 @@
 # わたしの「なんで？」ノート
 
 - 作成日: 2026-09-25
-- 更新日: 2026-09-27
+- 更新日: 2026-10-01
 
 ## 小学生の My ポートフォリオ
 
@@ -95,6 +95,7 @@ ChatGPTを保護者のGitHubに接続すると、読み取りから保存まで�
 - [IB PYPのUOIを参考にした家庭の探究づくり](docs/pyp-uoi-guide.md)
 - [個人情報と写真・作品の扱い](docs/privacy.md)
 - [AIに整理を頼むとき](docs/ai-guide.md)
+- [ChatGPTへの話しかけ方と、できあがる記録の例（架空）](examples/prompts/README.md)
 - [なぜ小学生のうちから記録するのか（目的とメリットの根拠）](docs/why-portfolio.md)
 - [将来の使いみち: 探究・入試・就活・AIのコンテキスト](docs/future-use.md)
 - [作成日・更新日のルール](docs/file-dates.md)
