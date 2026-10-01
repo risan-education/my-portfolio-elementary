@@ -17,3 +17,4 @@
 - [261002-01 記録の保存先・呼び出し方・一覧の明記と、毎回の /save-prompt](261002-01-record-locations-and-index.md)
 - [261002-02 ポートフォリオ全体のレビューと改善](261002-02-portfolio-review-improvements.md)
 - [261002-03 例04の注意書き削除と簡潔さのルール](261002-03-simplify-example-notes.md)
+- [261002-04 例の簡潔化と10種類の追加](261002-04-expand-concise-examples.md)

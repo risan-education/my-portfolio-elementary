@@ -3,16 +3,15 @@
 - 作成日: 2026-09-25
 - 更新日: 2026-10-02
 
-ここにある発言・日付・数値・活動は、用紙の使い方を示すための架空例です。実在する子どもの記録ではありません。
-本人の活動一覧・年間集計・AIの分析対象から除外してください。
+用紙の使い方を示す記入例です。本人の活動一覧・集計には含めません。
 
 - [低学年向け: 影を見つけた](shadow-note.md)
 - [高学年向け: 紙の橋](paper-bridge.md)
 
-用紙は [templates](../templates/) からコピーし、例の内容を自分の実績に流用しないでください。
+用紙は [templates](../templates/) からコピーします。
 
-- [PYPのUOIを参考にした「ものを包む」単元計画](uoi-packaging.md) — 架空の未実施計画。活動実績ではありません。
+- [PYPのUOIを参考にした「ものを包む」単元計画](uoi-packaging.md) — おとなの設計案・未実施。
 - [結論が出ず、お休みした探究](paused-inquiry.md) — 続けない選択と未確認の結果を残す例。
-- [ChatGPTへの話しかけ方と、できあがる記録の例](prompts/README.md) — 短い見本と詳しい対話の9例。作る・追記する・読む・ふりかえる・取り下げる使い方を示します。
+- [話しかけ方と、できあがる記録の19例](prompts/README.md) — 習い事・科学館・料理・作品から、年間ふりかえり・根拠付き要約まで。
 
-架空例の文章は Copyright © 2026 adash333、[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja) で提供します。適用範囲は [NOTICE.md](../NOTICE.md) を参照してください。
+Copyright © 2026 adash333、[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja)。適用範囲は [NOTICE.md](../NOTICE.md)。

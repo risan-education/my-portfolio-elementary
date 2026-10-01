@@ -9,7 +9,7 @@
 
 **子どもは体験とことばの主役。ChatGPTへの入力とGitHubへの保存は保護者が担当します。** 入試の実績づくりを急がず、そのときの興味を大切にします。
 
-版: **0.4.1** ／ [はじめ方（ChatGPTの登録・設定から保存まで）](docs/getting-started.md) ／ [AIに整理を頼むとき](docs/ai-guide.md) ／ [なぜ小学生のうちから記録するのか](docs/why-portfolio.md)
+版: **0.4.2** ／ [はじめ方（ChatGPTの登録・設定から保存まで）](docs/getting-started.md) ／ [AIに整理を頼むとき](docs/ai-guide.md) ／ [なぜ小学生のうちから記録するのか](docs/why-portfolio.md)
 
 ### まず使ってみる
 
@@ -18,7 +18,7 @@
 | 一言を残す | [公園での一言](examples/prompts/01-first-quick-note.md) ／ [質問なしの最短例](examples/prompts/06-one-line.md) |
 | 続きを足す | [翌日の追記](examples/prompts/03-add-next-day.md) |
 | あとで読む | [記録を呼び出す例](examples/prompts/07-read-record.md) ／ [記録一覧](index.md) |
-| ほかの使い方を選ぶ | [9つの例の一覧](examples/prompts/README.md) |
+| ほかの使い方を選ぶ | [19の例の一覧](examples/prompts/README.md) |
 
 ### 5分で一言を残す（初期設定済みの方）
 
