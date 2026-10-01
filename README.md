@@ -85,6 +85,7 @@ ChatGPTを保護者のGitHubに接続すると、読み取りから保存まで�
 | `annual-review/` | 年間ふりかえり |
 | `questions.md` | 本人の問いを日付付きでためる台帳 |
 | `derived/` | 記録から作る要約・報告書の下書き（原記録は変えない） |
+| `index.md` | 保存した記録の一覧（保存のたびに1行増える） |
 | `assets/` | 写真・PDFの控えや所在メモ |
 | `templates/` | コピーして使う空欄の用紙 |
 | `examples/` | **すべて架空**の記入例。本人の実績に含めません |
@@ -99,6 +100,7 @@ ChatGPTを保護者のGitHubに接続すると、読み取りから保存まで�
 - [AIに整理を頼むとき](docs/ai-guide.md)
 - [ChatGPTへの話しかけ方と、できあがる記録の例（架空）](examples/prompts/README.md)
 - [本人モード: 子ども自身がChatGPTと話して記録を作る](docs/child-mode.md)
+- [記録の保存先・一覧・呼び出し方](docs/finding-records.md)
 - [なぜ小学生のうちから記録するのか（目的とメリットの根拠）](docs/why-portfolio.md)
 - [将来の使いみち: 探究・入試・就活・AIのコンテキスト](docs/future-use.md)
 - [作成日・更新日のルール](docs/file-dates.md)
