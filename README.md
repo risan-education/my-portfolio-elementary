@@ -9,7 +9,7 @@
 
 **子どもは体験とことばの主役。ChatGPTへの入力とGitHubへの保存は保護者が担当します。** 入試の実績づくりを急がず、そのときの興味を大切にします。
 
-版: **0.4.2** ／ [はじめ方（ChatGPTの登録・設定から保存まで）](docs/getting-started.md) ／ [AIに整理を頼むとき](docs/ai-guide.md) ／ [なぜ小学生のうちから記録するのか](docs/why-portfolio.md)
+版: **0.4.3** ／ [はじめ方（ChatGPTの登録・設定から保存まで）](docs/getting-started.md) ／ [AIに整理を頼むとき](docs/ai-guide.md) ／ [なぜ小学生のうちから記録するのか](docs/why-portfolio.md)
 
 ### まず使ってみる
 

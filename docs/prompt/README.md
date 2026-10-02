@@ -18,3 +18,4 @@
 - [261002-02 ポートフォリオ全体のレビューと改善](261002-02-portfolio-review-improvements.md)
 - [261002-03 例04の注意書き削除と簡潔さのルール](261002-03-simplify-example-notes.md)
 - [261002-04 例の簡潔化と10種類の追加](261002-04-expand-concise-examples.md)
+- [261002-05 初心者向け導入を6段階に整理](261002-05-beginner-setup-flow.md)
